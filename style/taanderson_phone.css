@@ -1,0 +1,59 @@
+/*@media all and (max-width: 640px) {*/
+  header {
+    float: none;
+    position: relative;
+    margin: 0 auto;
+    padding: 0 1em;
+    width: auto;
+    font-size: 1.6em;
+  }
+
+  hr {
+    margin: 1em auto;
+    width: auto;
+  }
+
+  aside {
+    float: none;
+    position: relative;
+    margin: 0 10px;
+    width: auto;
+  }
+
+  footer {
+    float: none;
+    position: relative;
+    margin: 2em 10px;
+    width: auto;
+  }
+
+  article {
+    float: none;
+    position: relative;
+    width: auto;
+  }
+
+  #page-title {
+    margin: 0.3em auto;
+  }
+
+  .page-description {
+    text-align: left;
+    margin: 1em auto;
+    width: auto;
+  }
+
+  .news-section {
+    margin: 0 10px 0 10px;
+  }
+
+  .social-media-item {
+    font-size: 1.3em;
+    padding: 1.2em 0.8em;
+  }
+
+  .social-media-item {
+    display: block;
+    width: auto;
+  }
+/*}*/

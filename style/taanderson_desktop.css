@@ -1,0 +1,63 @@
+/*@media all and (min-width: 900px) {*/
+  #page-wrapper {
+    width: 900px;
+  }
+
+  header {
+    margin: 0em 1em 1em 1em;
+    float: left;
+    position: fixed;
+    width: 240px;
+  }
+
+  footer {
+    margin: 0 1em;
+    float: left;
+    position: fixed;
+    bottom: 50px;
+    width: 240px;
+  }
+
+  aside {
+    margin: 0 1em;
+    float: left;
+    position: fixed;
+    bottom: 80px;
+    width: 240px;
+  }
+
+  hr {
+    margin-left: 0;
+    width: 210px;
+  }
+
+  article {
+    float: right;
+    width: 620px;
+    height: 100%;
+    margin-bottom: 2em;
+    overflow: auto;
+  }
+
+  #page-title {
+    margin-top: 1.14em;
+  }
+
+  .news-section {
+    margin: 0 30px 0 10px;
+  }
+
+  .section {
+    width: 280px;
+  }
+
+  .page-description {
+    margin: 1em 0;
+    width: 210px;
+  }
+
+  .social-media-item {
+    width: auto;
+  }
+
+/*}*/

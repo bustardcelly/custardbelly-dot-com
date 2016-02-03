@@ -1,0 +1,43 @@
+/*@media all and (max-width: 899px) {*/
+  header {
+    font-size: 1.4em;
+    margin: 0em 1em 1em 1em;
+    max-width: 640px;
+  }
+
+  aside {
+    margin: 1em 10px 0 10px;
+    max-width: 640px;
+  }
+
+  hr {
+    margin-left: 0;
+  }
+
+
+  #page-title {
+    margin: 0.3em 0;
+  }
+
+  .news-section {
+    margin: 0 10px 0 10px;
+  }
+
+  .page-description {
+    margin: 1em 0;
+    max-width: 640px;
+  }
+
+  .social-media-item {
+    font-size: 1.3em;
+    padding: 1.2em;
+  }
+
+  .section {
+    width: auto;
+  }
+
+  footer {
+    margin: 2em 10px;
+  }
+/*}*/
